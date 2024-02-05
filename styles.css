@@ -28,7 +28,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--darkgrey);
+    background-color: var(--Offblack);
+    /* I realized that I made a mistake to make two containers of different color,
+    the original design only has one container so I updated the background color */
 }
 
 .container {
