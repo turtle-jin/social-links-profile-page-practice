@@ -92,6 +92,9 @@ img {
     margin-left: 15px;
     margin-right: 15px;
 
-   
+}
 
+a:hover {
+    background-color: var(--Green);
+    color: var(--Offblack);
 }
